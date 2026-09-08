@@ -152,7 +152,3 @@ REQRES_API_KEY="your_api_key_here" k6 run performance/reqres.js
 - **p90 duration:** 12.21 ms
 - **p95 duration:** 18.77 ms
 - **Max duration:** 430.51 ms
-
-**Interpretación objetiva:**
-Under the defined test conditions, the endpoint maintained an error rate below the configured threshold and met the response-time threshold.
-
